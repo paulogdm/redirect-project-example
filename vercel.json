@@ -8,7 +8,7 @@
           "value": "whispir-sh.vercel.app"
         }
       ],
-      "destination": "whispir.com/en-sg/$1",
+      "destination": "https://whispir.com/en-sg/$1",
       "permanent": true
     },
     {
@@ -19,7 +19,7 @@
           "value": "whispir-au.vercel.app"
         }
       ],
-      "destination": "whispir.com/en-au/$1",
+      "destination": "https://whispir.com/en-au/$1",
       "permanent": true
     }
   ]
