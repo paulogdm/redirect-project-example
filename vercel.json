@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "whispir-sh.vercel.app"
+        }
+      ],
+      "destination": "whispir.com/en-sg/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "whispir-au.vercel.app"
+        }
+      ],
+      "destination": "whispir.com/en-au/$1",
+      "permanent": true
+    }
+  ]
+}
