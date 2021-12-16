@@ -5,7 +5,7 @@
       "has": [
         {
           "type": "host",
-          "value": "whispir-sh.vercel.app"
+          "value": "whispir-sg.vercel.app"
         }
       ],
       "destination": "https://whispir.com/en-sg/$1",
